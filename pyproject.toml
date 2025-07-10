@@ -1,10 +1,11 @@
 [project]
-name = "goit-ds-hw-01"
+name = "goit-pycore-hw-08"
 version = "0.1.0"
 description = ""
 authors = [
     {name = "anastasiapolakova",email = "poliakova0401@gmail.com"}
 ]
+package-mode = false
 readme = "README.md"
 requires-python = "^3.13"
 dependencies = [
